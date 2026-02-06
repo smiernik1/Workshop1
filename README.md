@@ -18,10 +18,10 @@ Ten projekt to aplikacja konsolowa do zarządzania zadaniami, stworzona w ramach
 1. Sklonuj repozytorium:
    bash
    git clone https://github.com/twoje-repozytorium/tasks-management.git
-   2. Przejdź do katalogu projektu:
+2. Przejdź do katalogu projektu:
    bash
    cd tasks-management
-   3. Skompiluj projekt:
+3. Skompiluj projekt:
    bash
    javac -d bin src/*.java
    
