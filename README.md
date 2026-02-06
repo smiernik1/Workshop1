@@ -42,4 +42,4 @@ Jeśli chcesz wnieść swój wkład do projektu, prosimy o otwarcie zgłoszenia 
 
 ## Licencja
 
-Ten projekt jest objęty licencją MIT. Zobacz plik LICENSE po więcej informacji.
+Ten projekt nie jest objęty licencją.
